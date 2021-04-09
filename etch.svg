@@ -1,7 +1,7 @@
 <svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="etch">
 <g id="device">
-<rect id="body" x="196" y="132" width="622" height="782" rx="94" fill="black" stroke="white" stroke-width="4"/>
+<rect id="body" x="194" y="132" width="624" height="782" rx="94" fill="black" stroke="white" stroke-width="4"/>
 <path id="neelts" fill-rule="evenodd" clip-rule="evenodd" d="M662 893H659V902H662V896H665V902H668V893H665H662ZM671 893H680V896H671V893ZM695 893H698V899H704V902H695V899V893ZM692 893H683V896H692V893ZM718 893H724V896H718V893ZM714 893H705V896H708V902H711V896H714V893ZM671 899H680V902H671V899ZM692 899H683V902H692V899ZM721 899V902H715V899H721Z" fill="white"/>
 <rect id="front" x="194" y="98" width="624" height="784" rx="94" fill="black" stroke="white" stroke-width="4"/>
 <rect id="screen" opacity="0.7" x="226" y="130" width="560" height="562" rx="62" fill="black" stroke="white" stroke-width="4"/>
