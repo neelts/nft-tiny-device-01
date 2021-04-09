@@ -1,0 +1,31 @@
+{
+  "name": "nft-tiny-device-01",
+  "version": "1.0.0",
+  "description": "Tiny Device #01: Shake-n-Draw. Etch-a-Sketch inspired @hicetnunc #OBJKT NFT",
+  "homepage": "https://www.hicetnunc.xyz/objkt/26667",
+  "main": "etch-bundle.svg",
+  "scripts": {
+    "build:watch": "tsc-watch etch.ts --onSuccess \"node node_modules/svg-app/bundle -c etch.js etch.svg\"",
+    "update:packages": "npm install https://github.com/neelts/svg-app.git#master"
+  },
+  "keywords": [
+    "nft",
+    "etch-a-sketch",
+	"tezos",
+    "hicetnunc",
+    "ts",
+    "svg",
+	"interactive",
+	"collaborative"
+  ],
+  "author": "neelts",
+  "license": "ISC",
+  "dependencies": {
+    "svg-app": "git+https://github.com/neelts/svg-app.git#master"
+  },
+  "devDependencies": {
+    "tsc": "^1.20150623.0",
+    "tsc-watch": "^4.2.9",
+    "typescript": "^4.2.3"
+  }
+}

@@ -1,0 +1,4 @@
+*.pk
+# Project exclude paths
+/node_modules/
+/etch.js

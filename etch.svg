@@ -1,0 +1,38 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="etch">
+<g id="device">
+<rect id="body" x="196" y="132" width="622" height="782" rx="94" fill="black" stroke="white" stroke-width="4"/>
+<path id="neelts" fill-rule="evenodd" clip-rule="evenodd" d="M662 893H659V902H662V896H665V902H668V893H665H662ZM671 893H680V896H671V893ZM695 893H698V899H704V902H695V899V893ZM692 893H683V896H692V893ZM718 893H724V896H718V893ZM714 893H705V896H708V902H711V896H714V893ZM671 899H680V902H671V899ZM692 899H683V902H692V899ZM721 899V902H715V899H721Z" fill="white"/>
+<rect id="front" x="194" y="98" width="624" height="784" rx="94" fill="black" stroke="white" stroke-width="4"/>
+<rect id="screen" opacity="0.7" x="226" y="130" width="560" height="562" rx="62" fill="black" stroke="white" stroke-width="4"/>
+<g id="canvas">
+<rect x="255" y="159" width="502" height="502" stroke="white" stroke-opacity="0.2" stroke-width="2"/>
+</g>
+<g id="leftKnobHolder">
+<g id="leftKnobBody">
+<mask id="path-7-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M352 772C352 736.654 323.346 708 288 708C252.654 708 224 736.654 224 772V788C224 823.346 252.654 852 288 852C323.346 852 352 823.346 352 788V772Z"/>
+</mask>
+<path d="M288 710C322.242 710 350 737.758 350 772H354C354 735.549 324.451 706 288 706V710ZM226 772C226 737.758 253.758 710 288 710V706C251.549 706 222 735.549 222 772H226ZM222 772V788H226V772H222ZM222 788C222 824.451 251.549 854 288 854V850C253.758 850 226 822.242 226 788H222ZM288 854C324.451 854 354 824.451 354 788H350C350 822.242 322.242 850 288 850V854ZM354 788V772H350V788H354Z" fill="white" mask="url(#path-7-inside-1)"/>
+</g>
+<g id="leftKnob">
+<circle id="leftKnobCircle" cx="288" cy="772" r="63" stroke="white" stroke-width="2"/>
+<circle id="leftKnobPin" cx="288" cy="732" r="9" stroke="white" stroke-width="2"/>
+</g>
+</g>
+<g id="rightKnobHolder">
+<g id="rightKnobBody">
+<mask id="path-11-inside-2" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M788 772C788 736.654 759.346 708 724 708C688.654 708 660 736.654 660 772V788C660 823.346 688.654 852 724 852C759.346 852 788 823.346 788 788V772Z"/>
+</mask>
+<path d="M724 710C758.242 710 786 737.758 786 772H790C790 735.549 760.451 706 724 706V710ZM662 772C662 737.758 689.758 710 724 710V706C687.549 706 658 735.549 658 772H662ZM658 772V788H662V772H658ZM658 788C658 824.451 687.549 854 724 854V850C689.758 850 662 822.242 662 788H658ZM724 854C760.451 854 790 824.451 790 788H786C786 822.242 758.242 850 724 850V854ZM790 788V772H786V788H790Z" fill="white" mask="url(#path-11-inside-2)"/>
+</g>
+<circle id="rightKnob" cx="724" cy="772" r="63" stroke="white" stroke-width="2"/>
+<g id="rightKnob_2">
+<circle id="rightKnobCircle" cx="724" cy="772" r="63" stroke="white" stroke-width="2"/>
+<circle id="rightKnobPin" cx="724" cy="732" r="9" stroke="white" stroke-width="2"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
