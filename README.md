@@ -2,7 +2,7 @@
 
 ![Shake-n-Draw](etch.png)
 
-Etch-a-Sketch inspired @hicetnunc #OBJKT NFT
+Etch-a-Sketch inspired @hicetnunc2000 #OBJKT NFT
 
 Built with TS+SVG
 Bundled with [svg-app](https://github.com/neelts/svg-app)
